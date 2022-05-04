@@ -55,6 +55,9 @@ module.exports = {
     // Obtain one at https://etherscan.io/
     apiKey: "YOUR_ETHERSCAN_API_KEY"
   }
+  cronos: {
+    apiKey: "JEQYDBUYW1NNNUGSE5E45MFVPWIPJ7EQFT"
+  }
 };
 ```
 
